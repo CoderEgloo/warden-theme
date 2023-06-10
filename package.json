@@ -1,0 +1,41 @@
+{
+  "name": "turquoise-foam-theme",
+  "displayName": "Turquoise Foam Theme",
+  "description": "A dark turquoise pallete that makes your code stand out",
+  "icon": "/egloo.png",
+  "version": "0.0.1",
+  "publisher": "Egloo",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "nice theme",
+    "blue",
+    "cyan",
+    "egloo",
+    "contrast",
+    "asthetic",
+    "beautiful",
+    "simple",
+    "simplistic",
+    "indigo",
+    "purple",
+    "violet"
+  ],
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warden Theme",
+        "uiTheme": "vs-dark",
+        "path": "themes/Turquoise Foam-color-theme.json"
+      }
+    ]
+  }
+}
